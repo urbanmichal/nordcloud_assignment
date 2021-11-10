@@ -23,5 +23,3 @@ Execute: npm run lint
 Please follow the official PEP style guide for Python Code (as of 7/11/2021: https://www.python.org/dev/peps/pep-0008/)
 
 Each time you want to commit the code, please run linter.
-
-# TODO:

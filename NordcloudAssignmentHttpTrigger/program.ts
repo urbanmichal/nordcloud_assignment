@@ -11,9 +11,9 @@ export class Program {
 			const isLinkStationReachableFromDevice = linkStationWithMostPower !== null
 
 			if (isLinkStationReachableFromDevice) {
-				result = `Best link station for point ${deviceTestCase.x},${deviceTestCase.y} is ${linkStationWithMostPower.x},${linkStationWithMostPower.y} with power ${linkStationWithMostPower.getPower(deviceTestCase)}`
+				result += `Best link station for point ${deviceTestCase.x},${deviceTestCase.y} is ${linkStationWithMostPower.x},${linkStationWithMostPower.y} with power ${linkStationWithMostPower.getPower(deviceTestCase)}\n`
 			} else {
-				result = `No link station within reach for point ${deviceTestCase.x},${deviceTestCase.y}`
+				result += `No link station within reach for point ${deviceTestCase.x},${deviceTestCase.y}\n`
 			}
 		}
 

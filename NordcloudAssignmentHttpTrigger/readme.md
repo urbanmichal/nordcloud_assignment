@@ -2,7 +2,7 @@
 
 This program is deployed as a Azure Function microservice.
 
-You can trigger the function opening following URL in your browser
+You can trigger the function by opening following URL in your browser
 
 https://nordcloudassignment.azurewebsites.net/api/NordcloudAssignmentHttpTrigger?code=J3JfaJgiLun7beiIv92XJF1aG3MH7LJD035SuXTkOLWPP0BJWRFZYw==
 

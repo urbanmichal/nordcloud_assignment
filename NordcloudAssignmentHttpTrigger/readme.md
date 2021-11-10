@@ -34,7 +34,7 @@ node program.js
 
 # Development guidelines
 
-Please use dev branch for development, test for testing purposes and master for production.
+Please use dev branch for development, test for testing purposes and master for production. Branches are already created.
 
 Please follow the official PEP style guide for Python Code (as of 7/11/2021: https://www.python.org/dev/peps/pep-0008/)
 
